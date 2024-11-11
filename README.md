@@ -1,5 +1,5 @@
 # Safety_bag
-An emergency alert system using Arduino that sends an SMS and activates a buzzer when a button is pressed.
+An emergency alert system using Arduino that sends an SMS and activates a buzzer when a button is pressed. It helps to navigate when we are in a remote location.
 
 1. Hardware Setup
 ● Connect the GSM module -SIM99A to the Arduino.
