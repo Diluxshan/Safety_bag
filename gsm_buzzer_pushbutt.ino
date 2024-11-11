@@ -48,6 +48,6 @@ void sendSMS() {
   mySerial.print("I'm in an Emergency Situation");
   delay(1000);
 
-  mySerial.write(26); // Send CTRL+Z to finalize and send the SMS
-  delay(2000);        // Delay to give the GSM module time to send the message
+  mySerial.write(26); 
+  delay(2000);        
 }
